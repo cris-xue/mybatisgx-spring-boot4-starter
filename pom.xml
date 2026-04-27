@@ -195,9 +195,9 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/cris-xue/mybatisgx-spring-boot3-starter.git</connection>
-		<developerConnection>scm:git:ssh://github.com/cris-xue/mybatisgx-spring-boot3-starter.git</developerConnection>
-		<url>https://github.com/cris-xue/mybatisgx-spring-boot3-starter</url>
+		<connection>scm:git:git://github.com/cris-xue/mybatisgx-spring-boot4-starter.git</connection>
+		<developerConnection>scm:git:ssh://github.com/cris-xue/mybatisgx-spring-boot4-starter.git</developerConnection>
+		<url>https://github.com/cris-xue/mybatisgx-spring-boot4-starter</url>
 		<tag>HEAD</tag>
 	</scm>
 
